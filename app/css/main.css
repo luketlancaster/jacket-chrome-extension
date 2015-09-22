@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+body {
+  background-color: #0DADB2;
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em; }
+  body .container {
+    width: 100%;
+    text-align: center; }
+    body .container .header {
+      margin: 0;
+      padding: 10px;
+      border: none;
+      background-color: #287CE5; }
+    body .container h1 {
+      color: #24364C; }
+    body .container .hidden {
+      display: none; }
